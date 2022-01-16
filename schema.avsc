@@ -1,0 +1,12 @@
+{"namespace": "example.avro",
+ "type": "record",
+ "name": "User",
+ "fields": [
+     {"name": "objectUai", "type": "string"},
+     {"name": "sourceTimestamp",    "type": {   "type": "long",   "logicalType": "timestamp-micros" }},
+     {"name": "variableName", "type": "string"},
+     {"name": "dataValue", "type": "string"},
+     {"name": "siteCode", "type": "string"},
+     {"name": "objectType", "type": "string"}
+ ]
+}
