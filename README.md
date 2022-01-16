@@ -1,5 +1,5 @@
 # avroparq
-## AVRO/PARQUET/JSON converter
+## AVRO / PARQUET / JSON converter
 with timestamp/string conversion support
 
 ## requred libs: 
