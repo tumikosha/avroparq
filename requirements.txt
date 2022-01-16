@@ -1,0 +1,9 @@
+fastavro
+apache_beam
+dateparser
+pyarrow
+argparse
+json
+pandas
+avro
+
